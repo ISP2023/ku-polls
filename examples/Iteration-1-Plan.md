@@ -16,11 +16,3 @@ A workable web app that displays poll questions and allows visitors to select a 
 
 ## Tasks
 All tasks were recorded on the [Project Board for Iteration 1](https://github.com/users/Savetang19/projects/2/views/2).
-
-## Retrospective Summary
-### What went right?
-Following the tutorial. The web can function normally, and visitors can vote and view the results.
-### What went wrong?
-During the work, I frequently misspell words, causing the code to run incorrectly sometimes.
-### What have I learned?
-I have learned about the basic Django but not that much.
