@@ -46,13 +46,6 @@ See [Installation](../../wiki/Installation) in the project wiki.
    deactivate
    ```
 
-## Demo User Accounts
-
-Sample polls and users data are included. 
-
-* `demo1` password `Hackme1`
-* `demo2` password `Hackme2`
-
 ## Project Documents
 
 All project-related documents are in the [Project Wiki](../../wiki/Home)
